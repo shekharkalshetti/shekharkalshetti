@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekharkalshetti&label=Profile%20views&color=0e75b6&style=flat" alt="shekharkalshetti" /> </p>
 
-- 🔭 I’m currently working on NextJS [Spotify Clone](https://github.com/shekharkalshetti/spotify-clone)
+- 🔭 I’m currently working on StableDiffusionXL
 
 - 🌱 I’m currently learning Machine Learning **CS229: Machine Learning (Standford University)**
 
